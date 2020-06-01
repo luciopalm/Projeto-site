@@ -4,6 +4,15 @@
 }
 
 body {
-    background-color ;
-
+    background-color: rgb(170, 151, 189);
+    
 }
+
+main {
+    background-color: aliceblue;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgb(116, 104, 104);
+}
+
